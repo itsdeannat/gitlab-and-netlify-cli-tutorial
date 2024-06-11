@@ -1,4 +1,4 @@
-# Writing sample: Setting up static sites with GitLab and Netlify CLI 
+# Tutorial: Setting up static sites with GitLab and Netlify CLI 
 
 This brief tutorial explains how developers can use GitLab and Netlify's CLI tool to deploy a static site. The tutorial is intended for anyone with basic knowledge of Git, npm, CI/CD, and the command line. 
 
@@ -12,3 +12,7 @@ I had some issues with deploying a static site through the Netlify UI, so I had 
 * Visual Studio Code
 * GitLab
 * Netlify CLI
+
+## Writing sample
+
+[Setting up static sites with GitLab and Netlify CLI](/setting-up-static-sites-gitlab-netlify-cli.md)
