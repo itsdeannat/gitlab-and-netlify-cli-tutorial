@@ -1,6 +1,6 @@
 # How to deploy a static site using GitLab and Netlify CLI
 
-This tutorial shows you how to connect a GitLab repository to a Netlify site using Netlify's command-line interface (CLI). Netlify CLI lets you configure continuous deployment from the command line. You can connect your repository to an existing site, or create and configure a new site.
+This tutorial shows you how to connect a GitLab repository to a Netlify site using Netlify's command-line interface (CLI). Netlify CLI lets you configure continuous deployment from the command line. You can connect your repository to an existing site, or create and configure a new site. In this tutorial, you'll create and configure a new Netlify site.
 
 This tutorial is intended for anyone with basic knowledge of Git, npm, continuous deployment, and the command line.
 
@@ -22,11 +22,9 @@ First, you need to install Netlify CLI. Run this command in your terminal: `npm 
 
 To verify installation, run `netlify -v`.
 
-## Step 2: Obtain a token through the command line
+## Step 2: Log in to your Netlify account
 
-To authenticate and get an access token through the command line, run the command `netlify login`. 
-
-You'll be asked to log in with Netlify to grant access to Netlify CLI.
+To log in to your Netlify account, run the command `netlify login`. You'll be asked to log in with Netlify to grant access to Netlify CLI.
 
 ## Step 3: Configure continuous deployment for your site
 
